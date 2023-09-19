@@ -9,3 +9,6 @@ youtube link:
 
 link for remove shadow:
 - https://stackoverflow.com/questions/44752240/how-to-remove-shadow-from-scanned-images-using-opencv
+
+link for merge all mask:
+- https://stackoverflow.com/questions/58687463/how-to-add-multiple-binary-masks
